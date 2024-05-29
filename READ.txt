@@ -1,0 +1,8 @@
+Install important libraries such as:_
+
+imutils
+cv2
+cmake
+dlib
+meadipipe
+tensorflow
